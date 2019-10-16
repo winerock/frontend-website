@@ -41,3 +41,7 @@ More details can be viewed at [this GitHub repository](https://github.com/racqca
 
 
 
+## Some Bits That I've Learned Through This Project
+- Sometimes footers don't stick to the bottom without [a little extra help](https://medium.com/@zerox/keep-that-damn-footer-at-the-bottom-c7a921cb9551)
+- [What to do](https://stackoverflow.com/questions/22786357/anchor-tag-is-larger-than-element-it-holds) when an anchor tag is appearing bigger than the inside element (ie an img) 
+- I found an easy way to [create a responsive navbar](https://itnext.io/how-to-build-a-responsive-navbar-using-flexbox-and-javascript-eb0af24f19bf) with flexbox and a tiny bit of JavaScript
