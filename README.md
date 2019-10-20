@@ -47,3 +47,7 @@ More details can be viewed at [this GitHub repository](https://github.com/racqca
 - [What to do](https://stackoverflow.com/questions/22786357/anchor-tag-is-larger-than-element-it-holds) when an anchor tag is appearing bigger than the inside element (ie an img) 
 
 - I found an easy way to [create a responsive navbar](https://itnext.io/how-to-build-a-responsive-navbar-using-flexbox-and-javascript-eb0af24f19bf) with flexbox and a tiny bit of JavaScript
+
+- I learned how to [customize radio buttons](https://markheath.net/post/customize-radio-button-css)
+
+- For another time: I can [customize the select dropdown](https://www.w3schools.com/howto/howto_custom_select.asp)
