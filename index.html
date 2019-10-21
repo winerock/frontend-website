@@ -37,8 +37,9 @@
                 </div>
                 <div class="header-top-right">
                     <form class="form-inline">
-                        <input class="search-bar" type="search" placeholder="Search">
-                        <button class="search-btn" type="submit">
+                        <label for="search-bar">search</label>
+                        <input id="search-bar" type="search" placeholder="Search">
+                        <button class="search-btn" type="submit" role="button" aria-pressed="false">
                             <i class="fas fa-search"></i>
                         </button>
                     </form>
@@ -108,16 +109,16 @@
             <h2 class="section-header">find your fancy</h2>
             <div class="category-grid">
                 <a href="#" class="category-link">
-                    <img class="category-image" src="images/shoestext.jpg"></img>
+                    <img class="category-image" src="images/shoestext.jpg" alt="shop shoes category"></img>
                 </a>
                 <a href="#" class="category-link">
-                    <img class="category-image" src="images/dressestext.jpeg"></img>
+                    <img class="category-image" src="images/dressestext.jpeg" alt="shop dresses category"></img>
                 </a>
                 <a href="#" class="category-link">
-                    <img class="category-image" src="images/topstext.jpg"></img>
+                    <img class="category-image" src="images/topstext.jpg" alt="shop tops/shirts category"></img>
                 </a>
                 <a href="#" class="category-link">
-                    <img class="category-image" src="images/sweaterstext.jpg"></img>
+                    <img class="category-image" src="images/sweaterstext.jpg" alt="shop sweaters category"></img>
                 </a>
             </div>
         </div>
@@ -167,8 +168,8 @@
         <!-- Info about AG -->
         <div class="more-info">
             <h2 class="section-header">more about authentic grace</h2>
-            <a class="our-images" href="https://www.momscan.co"><img src="images/our_storytextblock.jpg" alt="Our-Story"></a>
-            <a class="our-images" href="https://www.momscan.co"><img src="images/our_blogtextblock.jpg" alt="Our-Blog"></a>
+            <a class="our-images" href="#"><img src="images/our_storytextblock.jpg" alt="Learn the story of Authentic Grace"></a>
+            <a class="our-images" href="#"><img src="images/our_blogtextblock.jpg" alt="Read our blog"></a>
         </div>
         <!-- End of Info about AG -->
     
@@ -180,7 +181,8 @@
             <p>Sign up to be the first to learn about our latest sales and trends</p>
             <p>(psssst - you'll also get a welcome gift!)</p>
             <form>
-                <input type="text" value="email address">
+                <label for="enter-email">enter email address</label>
+                <input id="enter-email" type="text" value="email address">
                 <input type="submit" value="Submit">
             </form>
         </div>
