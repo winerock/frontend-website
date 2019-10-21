@@ -269,6 +269,10 @@ a, a:hover, a:active, a:visited, a:focus {
     margin-top: 50px;
 }
 
+.sign-up label {
+    display: none;
+}
+
 form {
     margin-top: 10px;
 }
@@ -288,7 +292,8 @@ input[type=submit] {
     /* font-family: "Roboto"; */
     font-size: 18px;
     background-color: var(--accent);
-    color: #fff;
+    color: white;
+    letter-spacing: .1rem;;
     border: none;
     text-transform: uppercase;
 }
@@ -589,7 +594,7 @@ footer span {
         margin-right: 40px;
     } */
 
-    .search-bar,
+    #search-bar,
     .search-btn {
         margin: 4px 0;
     }
@@ -597,6 +602,10 @@ footer span {
     .form-inline {
         margin-top: 5px;
         margin-bottom: 5px;
+    }
+
+    .form-inline label {
+        display: none;
     }
 
     .form-inline input {
