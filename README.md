@@ -1,29 +1,28 @@
 
 # Authentic Grace 2.0
 
-View on ... [Coming Soon]
+View on [https://authenticgraceboutique.netlify.com/](https://authenticgraceboutique.netlify.com/)
 
 ## About the Project
 
 Authentic Grace is a fictional brick-and-mortar clothing store in need of a website to increase visibility, establish an online presence, and display products.
 
-[More Coming Soon]
+This version of the project is an update on the original.  I added a [product detail page](https://authenticgraceboutique.netlify.com/perfect-skinny-jeans.html) that can be accessed from the homepage by clicking the first image in the "shop from our social" section.  I also updated the site as a whole to more closely conform to web accessibility guidelines.  
 
 ## Project Guidelines
 
-[Coming Soon]
+The requirements of this version of the project were...
+* Create web accessibility audit report and make website more accessible
+* Add a page for one of the clothing items on the website
+* Create wireframe for new page
 
-## Project Partial Screenshot
+## Project Partial Screenshot of New Page
 
-<!-- <img src="https://i.imgur.com/jUBcVRU.png" width="800px" align="center"> -->
+<img src="https://i.imgur.com/xwH47p1.png" width="800px" align="center">
 
 ## Project Wireframe
 
 The wireframe was built in Figma, which can be viewed [here](https://www.figma.com/file/B3DRSq5O8fMImA669BpgYe/Authentic-Grace-2.0?node-id=0%3A1).
-
-## Project Responsibilites
-
-[Coming Soon] 
 
 ## Contact
 
@@ -42,12 +41,14 @@ More details can be viewed at [this GitHub repository](https://github.com/racqca
 
 
 ## Some Bits That I've Learned Through This Project
-- Sometimes footers don't stick to the bottom without [a little extra help](https://medium.com/@zerox/keep-that-damn-footer-at-the-bottom-c7a921cb9551)
+* Sometimes footers don't stick to the bottom without [a little extra help](https://medium.com/@zerox/keep-that-damn-footer-at-the-bottom-c7a921cb9551)
+* [What to do](https://stackoverflow.com/questions/22786357/anchor-tag-is-larger-than-element-it-holds) when an anchor tag is appearing bigger than the inside element (ie an img) 
+* I found an easy way to [create a responsive navbar](https://itnext.io/how-to-build-a-responsive-navbar-using-flexbox-and-javascript-eb0af24f19bf) with flexbox and a tiny bit of JavaScript
+* I learned how to [customize radio buttons](https://markheath.net/post/customize-radio-button-css)
+* For another time: I can [customize the select dropdown](https://www.w3schools.com/howto/howto_custom_select.asp)
+* Mobile-first is really a good way to go...
 
-- [What to do](https://stackoverflow.com/questions/22786357/anchor-tag-is-larger-than-element-it-holds) when an anchor tag is appearing bigger than the inside element (ie an img) 
-
-- I found an easy way to [create a responsive navbar](https://itnext.io/how-to-build-a-responsive-navbar-using-flexbox-and-javascript-eb0af24f19bf) with flexbox and a tiny bit of JavaScript
-
-- I learned how to [customize radio buttons](https://markheath.net/post/customize-radio-button-css)
-
-- For another time: I can [customize the select dropdown](https://www.w3schools.com/howto/howto_custom_select.asp)
+## Room for Improvement
+* Make website more responsive, especially the new product page
+* Learn how to turn features on the homepage into real sliders/carousels
+* Adjust some of the padding and font styles to better match wireframe
