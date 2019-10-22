@@ -31,15 +31,6 @@ Amy McGowan
 * GitHub: [amymcgowan](https://github.com/amymcgowan)
 * Twitter: [@_amymcgowan](https://twitter.com/_amymcgowan)
 
-
-# Authentic Grace 1.0
-
-The original version of the project was the front-end of the website and was built collaboratively by [Racquel Tung](https://racqcancode.github.io/portfolio-WIP) and [Amy McGowan](https://amymcgowan.dev) as a response to an assigment during Cohort 4 of [The Moms Can: Code School](https://www.momscan.co/).
-
-More details can be viewed at [this GitHub repository](https://github.com/racqcancode/frontend-website).  This [first version of the site](https://loving-minsky-8fe614.netlify.com/) was deployed on Netlify.
-
-
-
 ## Some Bits That I've Learned Through This Project
 * Sometimes footers don't stick to the bottom without [a little extra help](https://medium.com/@zerox/keep-that-damn-footer-at-the-bottom-c7a921cb9551)
 * [What to do](https://stackoverflow.com/questions/22786357/anchor-tag-is-larger-than-element-it-holds) when an anchor tag is appearing bigger than the inside element (ie an img) 
@@ -52,3 +43,11 @@ More details can be viewed at [this GitHub repository](https://github.com/racqca
 * Make website more responsive, especially the new product page
 * Learn how to turn features on the homepage into real sliders/carousels
 * Adjust some of the padding and font styles to better match wireframe
+
+
+
+# Authentic Grace 1.0
+
+The original version of the project was the front-end of the website and was built collaboratively by [Racquel Tung](https://racqcancode.github.io/portfolio-WIP) and [Amy McGowan](https://amymcgowan.dev) as a response to an assigment during Cohort 4 of [The Moms Can: Code School](https://www.momscan.co/).
+
+More details can be viewed at [this GitHub repository](https://github.com/racqcancode/frontend-website).  This [first version of the site](https://loving-minsky-8fe614.netlify.com/) was deployed on Netlify.
