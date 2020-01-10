@@ -6,7 +6,9 @@
 
 Authentic Grace is a fictional clothing store in need of a website to increase visibility, establish an online presence, and display products. It is envisioned as catering to a niche market.
 
-This front-end website was designed and built collaboratively by [Shradha Doshi](https://shraddhakdoshi.github.io/my-portfolio/) and [Emily Winerock](https://winerock.github.io/portfolio/) as an assigment for Cohort 5 of [The Moms Can: Code School](https://www.momscan.co/).
+This front-end website was designed and built collaboratively by [Shradha Doshi](https://shraddhakdoshi.github.io/my-portfolio/) and [Emily Winerock](https://winerock.github.io/portfolio/) as an assigment for Cohort 5 of [The Moms Can: Code School](https://www.momscan.co/). 
+
+It builds off the website built by [Racquel Tung](https://racqcancode.github.io/portfolio-WIP) and [Amy McGowan](https://amymcgowan.dev) for Cohort 4 of The Moms Can: Code School.
 
 More details can be viewed at [this GitHub repository](https://github.com/winerock/frontend-website). 
 
@@ -27,8 +29,3 @@ The wireframe was built on Canva and can be viewed [here](https://www.canva.com/
 
 ## Wish-list
 * JS popup
-
-
-
-
- 
